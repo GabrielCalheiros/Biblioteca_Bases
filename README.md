@@ -10,5 +10,5 @@ An repo to save all my reading lists and more.
 
 # Useful links:
 
-[Acervo de imagens da biblioteca pública de NY](https://digitalcollections.nypl.org/)
-[Acervo de imagens da Galeria Naconal de artes](https://www.nga.gov/collection-search-result.html?sortOrder=DEFAULT&artobj_downloadable=Image_download_available&pageNumber=1&lastFacet=artobj_downloadable)
+- [Acervo de imagens da biblioteca pública de NY](https://digitalcollections.nypl.org/)
+- [Acervo de imagens da Galeria Naconal de artes](https://www.nga.gov/collection-search-result.html?sortOrder=DEFAULT&artobj_downloadable=Image_download_available&pageNumber=1&lastFacet=artobj_downloadable)
