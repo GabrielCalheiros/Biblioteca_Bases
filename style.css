@@ -62,7 +62,7 @@ button {
     font-weight: bolder;
     font-size:x-large;
     transition: 1s;
-    width: -webkit-fill-available;
+    /* width: -webkit-fill-available; */
     border-radius: 0px;
     text-align: left;
   }
