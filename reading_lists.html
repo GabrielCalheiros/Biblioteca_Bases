@@ -1,0 +1,55 @@
+<html>
+  <head>
+    <title>Reading Lists - Charts</title>
+
+    <!-- Favicon -->
+    <link rel="shortcut icon" href="./Resources/images/logo.svg" />
+    <script src="./Resources/images/logo.svg"></script>
+
+    <script src="./infoGraphics/lists.js"></script>
+
+    <!-- CSS -->
+    <link rel="stylesheet" href="./style.css" />
+
+  </head>
+
+  <body>
+    <img src="./Resources/images/lib_background.svg" alt="" style="display: inline; width: 100%;">
+    <h1 style="margin-bottom: 5px;">Reading lists - Charts</h1><hr>
+
+
+    <div id="charts" style="columns: 2; margin: auto;"></div>
+
+    <script>
+        // Function to render the ListsCreated array
+        function renderLists() {
+          const chartsDiv = document.getElementById("charts");
+          let html = "";
+  
+          for (const listName in ListsCreated) {
+            if (ListsCreated.hasOwnProperty(listName)) {
+              html += `<h3>${listName}</h3><ul>`;
+              const listItems = ListsCreated[listName];
+  
+              listItems.forEach((item) => {
+                html += `<a href="./infoGraphics/${listName}/${item}" target="_blank"><li>${item}</li></a>`;
+              });
+  
+              html += "</ul><br>";
+            }
+          }
+  
+          chartsDiv.innerHTML = html;
+        }
+  
+        // Call the function to render the ListsCreated array
+        renderLists();
+      </script>
+
+  </body>
+
+  <footer>
+    <a href="./index.html"> <button>⇦ Index</button></a>
+  </footer>
+
+</html>
