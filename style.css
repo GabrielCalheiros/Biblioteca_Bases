@@ -61,17 +61,17 @@ button {
     color: white;
     font-weight: bolder;
     font-size:x-large;
-    transition: 1s;
-    /* width: -webkit-fill-available; */
+    width: -webkit-fill-available;
     border-radius: 0px;
     text-align: left;
+    border-radius: 3px;
   }
 
   .menu_item:hover{
-    background: linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(140,140,140,1) 100%);
-    color: goldenrod;
+    background: linear-gradient(270deg, rgba(0,0,0,1) 10%, rgb(255, 255, 255) 90%);
+    color: black;
   }
-  /* give margin-top to each li element inside the ul procotol_list */
+  
   .procotol_list li{
     margin-top: 2vh;
   }
