@@ -22,7 +22,7 @@
     <h1 style="margin-bottom: 5px;">Reading lists - Charts <a href="./index.html"><span style="font-size: 20px; float: right;">⇦ Index</span></a></h1><hr>
 
 
-    <div id="charts" style="columns: 2; margin-left: 10%;"></div>
+    <div id="charts" style="columns: 2;"></div>
 
     <script>
         // Function to render the ListsCreated array
@@ -32,7 +32,7 @@
   
           for (const listName in ListsCreated) {
             if (ListsCreated.hasOwnProperty(listName)) {
-              html += `<h3>${listName}</h3><ul>`;
+              html += `<ul><h3>${listName}</h3>`;
               const listItems = ListsCreated[listName];
   
               listItems.forEach((item) => {

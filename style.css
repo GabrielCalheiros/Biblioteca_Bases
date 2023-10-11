@@ -75,3 +75,7 @@ button {
   .procotol_list li{
     margin-top: 2vh;
   }
+
+  ul{
+    break-inside: avoid-column; /* Prevent the <ul> from splitting across columns */
+  }
