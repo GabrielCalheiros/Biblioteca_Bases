@@ -3,6 +3,7 @@ const ListsCreated = {"Authors" : [
   "Dostoyevsky - Translations Comparison.jpg",
   "Julius Evola.jpg",
   "Lovecraft.png",
+  "Nick Land.png",
   "Nietzsche - 1.png",
   "Nietzsche - 2.png",
   "Rene Guenon.png",
@@ -13,6 +14,14 @@ const ListsCreated = {"Authors" : [
 "Canon" : [
   "St Johns College Great Books List.png",
   "The Lit Canon.jpg"
+],
+"Charts on Intellectual property" : [
+  "Bioshock Infinite.jpg",
+  "Conan The Barbarian.jpg",
+  "Discworld.jpg",
+  "Evangelion Further Reading.png",
+  "Warhammer 40k - 1.jpg",
+  "Warhammer 40k - 2.jpg"
 ],
 "Conspiracy" : [
   "Gatekeepers Remorse.jpg",
@@ -30,7 +39,7 @@ const ListsCreated = {"Authors" : [
   "China.jpg",
   "France - Forgotten.jpg",
   "France - Renaissance.png",
-  "Indian.jpg",
+  "India.jpg",
   "Iran.png",
   "Irish.png",
   "Italy -Renaissance Literature.png",
@@ -69,23 +78,18 @@ const ListsCreated = {"Authors" : [
 "Literature" : [
   "Cyberpunk.png",
   "Fantasy.jpg",
-  "Literatura Portugues.png",
   "National Epics.png",
-  "Patrician Core.jpg",
   "SciFi.jpg",
   "Short Story.jpg",
   "Web Novels.jpg",
   "Western Theatre.png"
-],
-"Philosophy" : [
-  "Legal_Philosophy_Guide.png"
 ],
 "Poetry" : [
   "Lit Favorite Poets.png",
   "Poems on Massacres and Hell.jpg",
   "Poetry - Meme Edition.jpg"
 ],
-"Politics" : [
+"Politics & Philosophy" : [
   "4chan Pol - 1.jpg",
   "4chan Pol - 2.jpg",
   "British Conservatism.jpg",
@@ -94,9 +98,12 @@ const ListsCreated = {"Authors" : [
   "EcoFascism.png",
   "Facism.jpg",
   "Leftist & Progressive.jpg",
+  "Legal Philosophy Guide.png",
   "Monarchia.jpg",
   "National Communism.jpg",
   "Neoliberal.png",
+  "Political Philosophy - 1.jpg",
+  "Political Philosophy - 2.jpg",
   "Right Wing Socialism.png",
   "Slave Lord Guide.jpg"
 ],
@@ -110,6 +117,9 @@ const ListsCreated = {"Authors" : [
   "Christianity - Orthodox 1.jpg",
   "Christianity - Orthodox 2 PLUS SCHIZO STUFF.png",
   "Christianity.png",
+  "Daoism.jpg",
+  "Esoterica.jpg",
+  "German Paganism.png",
   "Hermeticism.jpg",
   "Hindu Texts.png",
   "Initiation into Hermetics.png",
@@ -127,26 +137,25 @@ const ListsCreated = {"Authors" : [
   "Math - 2.png",
   "Math - 3.jpg",
   "Math - 4.jpg",
+  "Math - 4.png",
   "Trivium.png"
 ],
 "Themed Charts" : [
-  "Bioshock Infinite.jpg",
-  "Books Which Make You Happier.png",
   "Burgerpunk.png",
-  "Conan The Barbarian.jpg",
   "Drooger.png",
-  "Evangelion Further Reading.png",
   "Great Characters.jpg",
   "Lain Pill.jpg",
+  "Middle Earth.jpg",
+  "Orange Pill - Bitcoin.jpg",
   "Outdoors.png",
   "Paranoia.png",
-  "Pewdiepie Reading List.jpg",
-  "Warhammer 40k - 1.jpg",
-  "Warhammer 40k - 2.jpg"
+  "Patrician Kid.png",
+  "Pewdiepie Reading List.jpg"
 ],
 "Tops" : [
   "Lit Top 100 Books 2018.jpg",
   "Lit Top 100 Books 2019.jpg",
   "Lit Top 100 Books 2020.jpg",
-  "Lit Top 100 Novels 2020.jpg"
+  "Lit Top 100 Novels 2020.jpg",
+  "Portuguese Language Top 50.png"
 ]};
