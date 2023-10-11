@@ -104,6 +104,7 @@ const ListsCreated = {"Authors" : [
   "SciFi - 2.jpg",
   "Short Story - 1.jpg",
   "Short Story - 2.jpg",
+  "Theatre & Drama.jpg",
   "Web Novels.jpg",
   "Western Theatre.png"
 ],
@@ -116,6 +117,7 @@ const ListsCreated = {"Authors" : [
   "Math - 3.jpg",
   "Math - 4.jpg",
   "Math - 4.png",
+  "Math - Curriculum.png",
   "Psychotherapy.png",
   "Trivium.png"
 ],
@@ -145,6 +147,7 @@ const ListsCreated = {"Authors" : [
   "Leftist Theory Starter Options.jpg",
   "Legal Philosophy Guide.png",
   "Libertarian.jpg",
+  "Marx and Engels.jpg",
   "Monarchia.jpg",
   "National Communism.jpg",
   "Neoliberal.png",
@@ -194,6 +197,7 @@ const ListsCreated = {"Authors" : [
   "By Age - Books for Teenage Boys.png",
   "By Age - Patrician Child.png",
   "Depressing Literature.jpg",
+  "Doomer & Bloomer.jpg",
   "Doomer.jpg",
   "Drooger.png",
   "Dying Earth Core.png",
@@ -212,13 +216,15 @@ const ListsCreated = {"Authors" : [
   "Self Published.jpg",
   "Tiger Literature.jpg",
   "Twitter Core.jpg",
-  "Utopianism.jpg"
+  "Utopianism.jpg",
+  "Weed.png"
 ],
 "Tops" : [
   "Lit Top 100 Books 2018.jpg",
   "Lit Top 100 Books 2019.jpg",
   "Lit Top 100 Books 2020.jpg",
   "Lit Top 100 Books 2021.png",
+  "Lit Top 100 Books 2022.jpg",
   "Lit Top 100 Novels 2020.jpg",
   "Lit top 2014 to 2020 avarege.jpeg",
   "Portuguese Language Top 50.png"
