@@ -173,6 +173,7 @@ const ListsCreated = {"Authors" : [
   "Celtic Paganism.png",
   "Christianity - Breadpill.png",
   "Christianity - Ecotheology.jpg",
+  "Christianity - Exotericism.png",
   "Christianity - Mysticism.jpg",
   "Christianity - Orthodox 1.jpg",
   "Christianity - Orthodox 2 PLUS SCHIZO STUFF.png",
