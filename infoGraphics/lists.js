@@ -52,6 +52,7 @@ const ListsCreated = {"Authors" : [
   "China.jpg",
   "France - Forgotten.jpg",
   "France - Renaissance.png",
+  "Germany.jpg",
   "India.jpg",
   "Iran.png",
   "Irish.png",
@@ -94,6 +95,7 @@ const ListsCreated = {"Authors" : [
   "War Literature.jpg"
 ],
 "Literature" : [
+  "Adventure.png",
   "Cyberpunk.png",
   "Fantasy.jpg",
   "Guide to Western Literature.jpg",
@@ -155,6 +157,7 @@ const ListsCreated = {"Authors" : [
   "Philosophystack.png",
   "Political Philosophy - 1.jpg",
   "Political Philosophy - 2.jpg",
+  "Political Theory.jpg",
   "Rhetoric.jpg",
   "Right Wing Literature.jpg",
   "Right Wing Socialism.png",
@@ -190,6 +193,7 @@ const ListsCreated = {"Authors" : [
   "World Religions Chart.jpg"
 ],
 "Themed Charts" : [
+  "Addiction Essentials.jpg",
   "Blackpilled.png",
   "Books About Books.png",
   "Burgerpunk - General.png",
