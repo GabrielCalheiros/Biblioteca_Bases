@@ -35,6 +35,7 @@ const ListsCreated = {"Authors" : [
   "Conan The Barbarian.jpg",
   "Cosmere Reading Order.png",
   "Discworld.jpg",
+  "DOOM.jpg",
   "Evangelion Further Reading.png",
   "How Should i read Dune.jpg",
   "Lain Pill.jpg",
@@ -143,6 +144,7 @@ const ListsCreated = {"Authors" : [
   "War Literature.jpg"
 ],
 "Literature" : [
+  "Absurdism.png",
   "Adventure.png",
   "Arthurian Folklore.png",
   "Book Accessibility Chart.png",
@@ -203,7 +205,8 @@ const ListsCreated = {"Authors" : [
   "Physics.png",
   "Programming Books.jpg",
   "Psychotherapy.png",
-  "Science Literature.jpg",
+  "Science Literature 1.jpg",
+  "Science Literature 2.png",
   "Trivium.png"
 ],
 "Poetry" : [
@@ -269,6 +272,7 @@ const ListsCreated = {"Authors" : [
   "Slave Lord Guide.jpg",
   "Stoicism.jpg",
   "Techno Skepticism.png",
+  "Third Position Economics.jpg",
   "Traditionalism.jpg",
   "Various Pills.jpg"
 ],
@@ -283,6 +287,7 @@ const ListsCreated = {"Authors" : [
   "Christianity - Breadpill.png",
   "Christianity - Chatolic 1.jpg",
   "Christianity - Chatolic 2.jpg",
+  "Christianity - Doctrine.jpg",
   "Christianity - Ecotheology.jpg",
   "Christianity - Ecumenical Councils.jpg",
   "Christianity - Exotericism.png",
@@ -297,8 +302,9 @@ const ListsCreated = {"Authors" : [
   "Daoism.jpg",
   "Eastern Mystic Philosophy.png",
   "Esoterica - 1.jpg",
+  "Esoterica - 2.jpg",
+  "Esoterica - 3.jpg",
   "Esoterica - Brownpilled.jpg",
-  "Esoterica 2.jpg",
   "German Paganism.png",
   "Hermeticism.jpg",
   "Hindu Texts.png",
