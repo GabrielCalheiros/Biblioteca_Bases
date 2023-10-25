@@ -1,6 +1,7 @@
 const ListsCreated = {"Authors" : [
   "Albert Kamus.jpg",
   "Borges.jpg",
+  "China Mieville.jpg",
   "Dante Translations.jpg",
   "Dostoyevsky - Translations Comparison.jpg",
   "Jonathan Bowden.jpg",
@@ -8,6 +9,7 @@ const ListsCreated = {"Authors" : [
   "Julius Evola 2.jpg",
   "Kant.png",
   "Lovecraft.png",
+  "Ludwig Wittgenstein.png",
   "Malazan.jpg",
   "Nick Land.png",
   "Nietzsche - 1.png",
@@ -18,6 +20,7 @@ const ListsCreated = {"Authors" : [
   "Seraphim Rose.png",
   "Ted Kaczynski.png",
   "Willian Shakespeare.png",
+  "Xavier Zubiri.png",
   "Zizek - 1.jpg",
   "Zizek - 2.png",
   "Zizek - 3.jpg"
@@ -49,6 +52,7 @@ const ListsCreated = {"Authors" : [
   "Fringe.png",
   "Gatekeepers Remorse.jpg",
   "Green Pill Chart.jpg",
+  "Myth of Andalusian Paradise.jpg",
   "pizzagate1.jpg",
   "pizzagate2.jpg",
   "Textbooks Of The Elite.png"
@@ -64,6 +68,7 @@ const ListsCreated = {"Authors" : [
   "Britain.jpg",
   "Canada - Authors.png",
   "Canada - Poetry.png",
+  "Catalonia.jpg",
   "China 1.jpg",
   "China 2.jpg",
   "Czech Republic.jpg",
@@ -105,6 +110,7 @@ const ListsCreated = {"Authors" : [
   "United States - American Folklore.jpg",
   "United States - Burgerpunk General.png",
   "United States - Burgerpunk Value Menu.png",
+  "United States - Western.jpg",
   "Uruguay.jpg"
 ],
 "History, Geography & Antropology" : [
@@ -117,7 +123,8 @@ const ListsCreated = {"Authors" : [
   "Norse History and Literature.jpg",
   "Romans - 1.jpg",
   "Romans - 2.jpg",
-  "Romans - 4.jpg"
+  "Romans - 4.jpg",
+  "Romans - 5.jpg"
 ],
 "Horror, Creepy & Disturbing" : [
   "100 Horror Authors.jpg",
@@ -163,6 +170,8 @@ const ListsCreated = {"Authors" : [
   "Novellas 1.jpg",
   "Novellas 2.jpg",
   "Picaresque Fiction.png",
+  "Postmodernism.png",
+  "Premio Oceanos Literatura Portuguesa.png",
   "Romance.png",
   "SciFi & Fantasy - 1.png",
   "SciFi & Fantasy - 1996 to 2016.png",
@@ -175,8 +184,10 @@ const ListsCreated = {"Authors" : [
   "SciFi - 6.jpg",
   "SciFi - Female.jpg",
   "SciFi - Soft Science Fiction.jpg",
+  "Short Fiction.png",
   "Short Story - 1.jpg",
   "Short Story - 2.jpg",
+  "Surreal.jpg",
   "Theatre & Drama 1.jpg",
   "Theatre & Drama 2.jpg",
   "Web Novels.jpg",
@@ -243,6 +254,7 @@ const ListsCreated = {"Authors" : [
   "Economics Education.png",
   "Existentialism.jpg",
   "Facism.jpg",
+  "German Idealism.jpg",
   "Leftist & Progressive.jpg",
   "Leftist Theory Starter Options.jpg",
   "Legal Philosophy Guide.png",
@@ -264,6 +276,7 @@ const ListsCreated = {"Authors" : [
   "Political Philosophy - 1.jpg",
   "Political Philosophy - 2.jpg",
   "Political Theory.jpg",
+  "Pragmatism.png",
   "Reactionary Literature.jpg",
   "Rhetoric.jpg",
   "Right Wing Literature.jpg",
@@ -277,6 +290,7 @@ const ListsCreated = {"Authors" : [
   "Various Pills.jpg"
 ],
 "Religion & Spirituality" : [
+  "Analytic Metaphysics.jpg",
   "Asatru Neopagan.jpg",
   "Bibles Translations.png",
   "Buddhism 1.jpg",
@@ -287,6 +301,7 @@ const ListsCreated = {"Authors" : [
   "Christianity - Breadpill.png",
   "Christianity - Chatolic 1.jpg",
   "Christianity - Chatolic 2.jpg",
+  "Christianity - Denominations.jpg",
   "Christianity - Doctrine.jpg",
   "Christianity - Ecotheology.jpg",
   "Christianity - Ecumenical Councils.jpg",
@@ -315,6 +330,7 @@ const ListsCreated = {"Authors" : [
   "Medieval Mysticism.png",
   "Quran Translations.jpg",
   "Satanism.png",
+  "Traditional Biblical Texts.png",
   "Western Occultism - 1.png",
   "Western Occultism - 2.png",
   "World Religions Chart.jpg"
@@ -323,10 +339,13 @@ const ListsCreated = {"Authors" : [
   "Addiction Essentials.jpg",
   "Beowulf.jpg",
   "Blackpilled.png",
-  "Bloomer.jpg",
+  "Bloomer - 1.jpg",
+  "Bloomer - 2.jpg",
   "Books About Books.png",
   "By Age - Books for Teenage Boys.png",
-  "By Age - Patrician Child.png",
+  "By Age - Books older Woman.jpg",
+  "By Age - Literature to Little Girls.jpg",
+  "By Age - Little Boys.png",
   "Depressing Literature.jpg",
   "Doomer & Bloomer.jpg",
   "Doomer.jpg",
@@ -350,6 +369,7 @@ const ListsCreated = {"Authors" : [
   "Paranoia.png",
   "Pessimist.jpg",
   "Pewdiepie Reading List.jpg",
+  "Picture Books.jpg",
   "Self Published.jpg",
   "Tiger Literature.jpg",
   "Translations.png",
@@ -357,7 +377,8 @@ const ListsCreated = {"Authors" : [
   "Tuberculosis Sanatorium Novels.png",
   "Twitter Core.jpg",
   "Utopianism.jpg",
-  "Weed.png"
+  "Weed.png",
+  "Young Artist.png"
 ],
 "Tops" : [
   "20th Century Lit 1900-1924.jpg",
