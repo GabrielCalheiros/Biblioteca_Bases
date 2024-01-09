@@ -1,0 +1,88 @@
+<mxfile host="app.diagrams.net" modified="2024-01-05T17:32:38.682Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="8YakQBNJY8VgtUFRGJsl" version="22.1.16" type="device">
+  <diagram name="Página-1" id="-gqdw00A5Zkx3lxUMTvB">
+    <mxGraphModel dx="2181" dy="1923" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="A8YmvN7NTTBngSihhZEq-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="A8YmvN7NTTBngSihhZEq-2" target="A8YmvN7NTTBngSihhZEq-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="A8YmvN7NTTBngSihhZEq-2" value="Raw PDF Book" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="-128" y="31" width="128" height="168" as="geometry" />
+        </mxCell>
+        <mxCell id="A8YmvN7NTTBngSihhZEq-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="A8YmvN7NTTBngSihhZEq-5" target="A8YmvN7NTTBngSihhZEq-11" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="A8YmvN7NTTBngSihhZEq-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="A8YmvN7NTTBngSihhZEq-5" target="A8YmvN7NTTBngSihhZEq-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="A8YmvN7NTTBngSihhZEq-5" value="Transform into Black and White SVGs" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="114" y="75" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="A8YmvN7NTTBngSihhZEq-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="A8YmvN7NTTBngSihhZEq-7" target="A8YmvN7NTTBngSihhZEq-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="A8YmvN7NTTBngSihhZEq-7" value="Transcribe every page individually" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="470" y="66.5" width="189" height="97" as="geometry" />
+        </mxCell>
+        <mxCell id="A8YmvN7NTTBngSihhZEq-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="A8YmvN7NTTBngSihhZEq-9" target="A8YmvN7NTTBngSihhZEq-13" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="A8YmvN7NTTBngSihhZEq-9" value="Translate Every Page individually" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="468" y="220" width="191" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="A8YmvN7NTTBngSihhZEq-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="A8YmvN7NTTBngSihhZEq-11" target="A8YmvN7NTTBngSihhZEq-14" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="A8YmvN7NTTBngSihhZEq-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;" parent="1" source="A8YmvN7NTTBngSihhZEq-11" target="A8YmvN7NTTBngSihhZEq-27" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="A8YmvN7NTTBngSihhZEq-11" value="Clear Every Image/Posprocess" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="99.5" y="339" width="189" height="71" as="geometry" />
+        </mxCell>
+        <mxCell id="A8YmvN7NTTBngSihhZEq-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="A8YmvN7NTTBngSihhZEq-13" target="A8YmvN7NTTBngSihhZEq-14" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="A8YmvN7NTTBngSihhZEq-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="A8YmvN7NTTBngSihhZEq-13" target="A8YmvN7NTTBngSihhZEq-30" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="A8YmvN7NTTBngSihhZEq-13" value="Format to LaTex" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="710" y="220" width="189" height="79" as="geometry" />
+        </mxCell>
+        <mxCell id="kph7JEXZYfliNnFbElQt-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="A8YmvN7NTTBngSihhZEq-14" target="kph7JEXZYfliNnFbElQt-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="A8YmvN7NTTBngSihhZEq-14" value="Add the Image of the page as an SVG to the LaTex making it interlinear translation" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="630" y="330" width="350" height="89" as="geometry" />
+        </mxCell>
+        <mxCell id="A8YmvN7NTTBngSihhZEq-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="A8YmvN7NTTBngSihhZEq-23" target="A8YmvN7NTTBngSihhZEq-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="A8YmvN7NTTBngSihhZEq-23" value="USE OCR TOOL FOR THIS (PROBABLY TESSERACT)&lt;br&gt;https://www.hitechnectar.com/blogs/open-source-ocr-tools/#Tesseract" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="480" y="-80" width="440" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="A8YmvN7NTTBngSihhZEq-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;" parent="1" source="A8YmvN7NTTBngSihhZEq-25" target="A8YmvN7NTTBngSihhZEq-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="A8YmvN7NTTBngSihhZEq-25" value="There are plenty of options for this. The tool must be able to take a single page in PNG or JPG and turn it into an SVG. Any CLI SVG tool will do. But probably im gonna use&amp;nbsp;ImageMagick." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="99.5" y="-50" width="350" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="A8YmvN7NTTBngSihhZEq-27" value="There are plenty of options for this. The tool must be able to take a single page in PNG or JPG and turn it into an SVG. Any CLI SVG tool will do. But probably im gonna use&amp;nbsp;ImageMagick." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="134" y="540" width="280" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="A8YmvN7NTTBngSihhZEq-30" value="PyLaTex will probably the tool for this and the other LaTex stuff." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="720" y="80" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kph7JEXZYfliNnFbElQt-1" value="PyLaTex will probably the tool for this and the other LaTex stuff." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1060" y="354.5" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kph7JEXZYfliNnFbElQt-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="kph7JEXZYfliNnFbElQt-3" target="A8YmvN7NTTBngSihhZEq-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kph7JEXZYfliNnFbElQt-3" value="FIND AN selfhosted LLM that can do that." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="210" y="199" width="230" height="41" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
