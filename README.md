@@ -1,12 +1,11 @@
 # Biblioteca Bases
 
+![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+
 An repo to save all my reading lists and more. 
-
-## Objectives:
-
-- Compilar e catalogar diversas listas de leituras achadas em fóruns da internet.
-- Compilar cópias em LaTex para cada livro, manter uma biblioteca leve e livre para download. 
-- Create an better frontend with an connection with Lulu or other API to print the books. 
 
 # Useful links:
 
