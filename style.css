@@ -1,10 +1,10 @@
-.container {  display: grid;
+.container {  
+    display: grid;
     grid-template-columns: 1fr 1fr 1fr;
     grid-template-rows: 1fr;
     gap: 0px 0px;
     grid-auto-flow: row;
-    grid-template-areas:
-      "left center right";
+    grid-template-areas: "left center right";
   }
   
   .left { grid-area: left; }
@@ -26,12 +26,12 @@
     text-decoration: none;
   }
 
-  a:hover{
-    color: goldenrod;
+  a:hover{ 
+    color: goldenrod; 
   }
 
-  footer{
-    text-align: center;
+  footer{ 
+    text-align: center; 
   }
 
   
@@ -48,15 +48,23 @@ button {
     font-family: "Times New Roman", Times, serif;
   }
   
-  button:hover {
-    background-color: goldenrod;
-  }
-  
-  button:active {
-    background-color: rgba(218, 165, 32, 0.711);
-  }
+button:hover { 
+  background-color: goldenrod; 
+}
 
-  .menu_item{
+button:active { 
+  background-color: rgba(218, 165, 32, 0.711); 
+}
+
+.procotol_list li{ 
+  margin-top: 2vh; 
+}
+
+ul{ 
+  break-inside: avoid-column;  
+}
+
+.menu_item{
     background-color: black;
     color: white;
     font-weight: bolder;
@@ -65,20 +73,11 @@ button {
     border-radius: 0px;
     text-align: left;
     border-radius: 3px;
-  }
+}
 
-  .menu_item:hover{
+.menu_item:hover{
     background: linear-gradient(270deg, rgba(0,0,0,1) 10%, rgb(255, 255, 255) 90%);
     color: black;
-  }
+}
   
-  .procotol_list li{
-    margin-top: 2vh;
-  }
 
-  ul{
-    /* Prevent the <ul> from splitting across columns */
-    break-inside: avoid-column; 
-  }
-
-  
