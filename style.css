@@ -13,7 +13,7 @@
   
   .center { grid-area: center; }
   
-  body{
+  body {
     margin-left: 25%; 
     width: 50%;
     font-family: 'Times New Roman', Times, serif;
@@ -21,16 +21,16 @@
     color: white;
   }
 
-  a{
+  a {
     color: white;
     text-decoration: none;
   }
 
-  a:hover{ 
+  a:hover { 
     color: goldenrod; 
   }
 
-  footer{ 
+  footer { 
     text-align: center; 
   }
 
@@ -64,7 +64,7 @@ ul{
   break-inside: avoid-column;  
 }
 
-.menu_item{
+.menu_item {
     background-color: black;
     color: white;
     font-weight: bolder;
@@ -75,7 +75,7 @@ ul{
     border-radius: 3px;
 }
 
-.menu_item:hover{
+.menu_item:hover {
     background: linear-gradient(270deg, rgba(0,0,0,1) 10%, rgb(255, 255, 255) 90%);
     color: black;
 }
